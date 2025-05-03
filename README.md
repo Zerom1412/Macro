@@ -46,7 +46,7 @@ A system for unattended small retail stores that predicts inventory and recommen
     - DB 테이블 설계
       - [x] 상품 ( Products )
       - [x] 판매 ( Sales )
-      - [x] 날짜 ( Dates )
+      - [] 날짜 ( Dates )
       - [ ] 재고 ( Stocks )
 
 2. 📊 데이터베이스 구축 / Database Setup
