@@ -44,9 +44,9 @@ A system for unattended small retail stores that predicts inventory and recommen
 ## System Roadmap
 1. 📦 데이터 준비 / Data Preparation
     - DB 테이블 설계
-      - [ ] 상품 ( Products )
-      - [ ] 판매 ( Sales )
-      - [ ] 날짜 ( Dates )
+      - [x] 상품 ( Products )
+      - [x] 판매 ( Sales )
+      - [x] 날짜 ( Dates )
       - [ ] 재고 ( Stocks )
 
 2. 📊 데이터베이스 구축 / Database Setup
